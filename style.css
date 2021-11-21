@@ -1,5 +1,15 @@
 @media (max-width: 576px) { 
   h1 {
+    font-size: 60px;
+    line-height: 1.5;
+  }
+  .mt-5 {
+    display: block;
+  }
+}
+
+@media (max-width: 375px) { 
+  h1 {
     font-size: 48px;
     line-height: 1.5;
   }
