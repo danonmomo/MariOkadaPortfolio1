@@ -1,3 +1,22 @@
+@media (max-width: 576px) { 
+  h1 {
+    font-size: small;
+  }
+}
+
+@media (min-width: 800px) { 
+  h1{
+    font-size: large;
+  }
+  .mt-5 {
+    display: block;
+
+  }
+}
+
+
+
+
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
